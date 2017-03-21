@@ -5,6 +5,6 @@
   </div>
 </template>
 
-![image](https://img.shields.io/badge/issues-0%20open-green.svg)
-![image](https://img.shields.io/badge/issues-0%20open-blue.svg)
-![image](https://img.shields.io/badge/issues-123-blue.svg)
+![image](https://img.shields.io/github/issues/gdmec07150723/vuxweather.svg)
+![image](https://img.shields.io/github/forks/gdmec07150723/vuxweather.svg)
+![image](https://img.shields.io/github/stars/gdmec07150723/vuxweather.svg)
